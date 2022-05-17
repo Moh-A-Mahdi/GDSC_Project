@@ -1,4 +1,4 @@
-# gdsc_project
+# GDSC_Project
 
 A new Flutter project.
 
