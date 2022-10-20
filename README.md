@@ -1,12 +1,14 @@
 # GDSC_Project
 
-A new Flutter project.
+## By Mohamed A. Mahdi
+## Zones App
+### Description
+__An app that tells you the current of your phone and display some time zones from other countries.__
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+* A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
